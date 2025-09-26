@@ -1,3 +1,5 @@
+[Index](README.md)
+
 # Git Multi‑Repo Setup with SSH (Per Folder)
 
 This reference explains how to configure multiple Git identities with
@@ -146,3 +148,5 @@ Fix stale host entries:
 ssh-keygen -R github.com
 ssh -T git@github.com
 ```
+
+[Index](README.md)
